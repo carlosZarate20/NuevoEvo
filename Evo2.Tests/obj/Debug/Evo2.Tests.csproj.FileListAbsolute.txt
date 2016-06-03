@@ -1,0 +1,34 @@
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.dll
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.pdb
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.dll
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
+D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
+D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
+D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.pdb
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\nunit.framework.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\nunit.framework.xml
+D:\EVO_VALE\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
+D:\EVO_VALE\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\bin\Debug\Evo2.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\bin\Debug\nunit.framework.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TB2\Evo3-master\Evo3-master\Evo2\Evo2.Tests\bin\Debug\nunit.framework.xml
+D:\este\Evo2\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.dll
+D:\este\Evo2\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.pdb
+D:\este\Evo2\Evo2\Evo2.Tests\bin\Debug\Evo2.dll
+D:\este\Evo2\Evo2\Evo2.Tests\bin\Debug\nunit.framework.dll
+D:\este\Evo2\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
+D:\este\Evo2\Evo2\Evo2.Tests\bin\Debug\nunit.framework.xml
+D:\este\Evo2\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
+D:\este\Evo2\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
+D:\este\Evo2\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb
